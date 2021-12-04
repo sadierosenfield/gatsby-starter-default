@@ -9,6 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Rime is coming soon.</h1>
+    <p>info@rime.ai</p>
     
   </Layout>
 )
